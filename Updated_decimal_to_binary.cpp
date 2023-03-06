@@ -3,18 +3,18 @@ using namespace std;
 
 void Decimal_To_Binary(int n)
 {
-    for(int i=31;i>=0;i--)
+    for(int i=31 i>=0;i--)
     {
-        cout<<((n>>i) &1);
+        cout <(n>>i) &1);
     }
-    cout<<endl;
+    cout<<end;
 }
 
-int main()
+int main(
 {
   int number;
-  cin>>number;
-  Decimal_To_Binary(number);
+  cin>>nmber;
+  DecimalTo_Binary(number);
   
-  return 0;
+  retun 0;
 }
