@@ -11,11 +11,10 @@ int factorial(int n)
 int main()
 {
     int t;
-    cin >> t;
-    while (t--) {
-        int a;
-        cin >> a;
-        cout << factorial(a);
-    }
+    cin >> t
+    while (t-- {
+        int ;
+        cin > a;
+        cout << factoial();
     return 0;
 }
